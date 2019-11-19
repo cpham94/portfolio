@@ -19,7 +19,7 @@ body {
 	background-color: #4aaaa5;
 	color: white;
 	position: absolute;
-	left: 20%;
+	left: 25%;
 	height: 10%;
 	width: 14%;
 	text-align: center;
@@ -28,7 +28,7 @@ body {
 .topnav-right {
 	float: right;
 	position: absolute;
-	right: 15%;
+	right: 5%;
 	top: 4%
 }
 
